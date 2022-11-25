@@ -1,0 +1,33 @@
+[
+    {
+      "id": "tlos-zap-zappy",
+      "name": "TLOS-ZAP LP",
+      "token": "TLOS-ZAP LP",
+      "tokenAddress": "0x774d427B2105849A0FBb6f49c432C087E3607F6F",
+      "tokenDecimals": 18,
+      "tokenProviderId": "zappy",
+      "earnedToken": "mooTLOS-ZAP",
+      "earnedTokenAddress": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
+      "earnContractAddress": "0x3D2c6bCED5f50f5412234b87fF0B445aBA4d10e9",
+      "oracle": "lps",
+      "oracleId": "tlos-zap-zappy",
+      "status": "eol",
+      "platformId": "zappy",
+      "retireReason": "rewards",
+      "assets": ["TLOS", "ZAP"],
+      "strategyTypeId": "lp",
+      "callFee": 0.25,
+      "addLiquidityUrl": "https://app.sushi.com/add/0x6983D1E6DEf3690C4d616b13597A09e6193EA013/0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
+      "buyTokenUrl": "https://app.sushi.com/swap?inputCurrency=0x6983D1E6DEf3690C4d616b13597A09e6193EA013&outputCurrency=0x63cf309500d8be0B9fDB8F1fb66C821236c0438c",
+      "network": "telos",
+      "risks": [
+        "COMPLEXITY_LOW",
+        "BATTLE_TESTED",
+        "IL_LOW",
+        "MCAP_LARGE",
+        "AUDIT",
+        "CONTRACTS_VERIFIED"
+      ],
+      "createdAt": 1631279357
+    }
+  ]
